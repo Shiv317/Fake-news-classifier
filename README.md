@@ -49,5 +49,4 @@ To run this project, you will need the following Python libraries:
 - scikit-learn
 - nltk
 - re
-- matplotlib
-- seaborn
+
